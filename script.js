@@ -93,7 +93,33 @@ let log = console.log;
 
 ///////////////////////////////////////////// task 9 ////////////////////////////////////
 
+// const HIGH_TEMPERATURES = {
+//   yesterday: 75,
+//   today: 77,
+//   tomorrow: 80
+// };
+
+// // Змініть код лише під цим рядком
+
+// const { today } = HIGH_TEMPERATURES;
+// const { tomorrow } = HIGH_TEMPERATURES;
+
+// // Змініть код лише над цим рядком
+
 ///////////////////////////////////////////// task 10 ////////////////////////////////////
+
+// const HIGH_TEMPERATURES = {
+//   yesterday: 75,
+//   today: 77,
+//   tomorrow: 80
+// };
+
+// // Змініть код лише під цим рядком
+
+// const { today: highToday } = HIGH_TEMPERATURES;
+// const { tomorrow: highTomorrow } = HIGH_TEMPERATURES;
+
+// // Змініть код лише над цим рядком
 
 ///////////////////////////////////////////// task 11 ////////////////////////////////////
 
