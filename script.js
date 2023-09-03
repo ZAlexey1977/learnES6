@@ -202,10 +202,53 @@ let log = console.log;
 
 ///////////////////////////////////////////// task 17 ////////////////////////////////////
 
+// // Змініть код лише під цим рядком
+// const bicycle = {
+//   gear: 2,
+//   setGear(newGear) {
+//     this.gear = newGear;
+//   }
+// };
+// // Змініть код лише над цим рядком
+// bicycle.setGear(3);
+// console.log(bicycle.gear);
+
 ///////////////////////////////////////////// task 18 ////////////////////////////////////
+
+// // Змініть код лише під цим рядком
+// class Vegetable {
+//   constructor(name) {
+//     this.name = name;
+//   }
+// }
+// // Змініть код лише над цим рядком
+
+// const carrot = new Vegetable('carrot');
+// console.log(carrot.name); // Повинно показувати 'carrot'
 
 ///////////////////////////////////////////// task 19 ////////////////////////////////////
 
+// // Змініть код лише під цим рядком
+// class Thermostat {
+//   constructor(temperature) {
+//     this._temperature = temperature;
+//   }
+//   get temperature() {
+//     return (5 / 9 * (this._temperature - 32));
+//   }
+
+//   set temperature(newTemp) {
+//     this._temperature = (newTemp * 9.0 / 5 + 32);
+//   }
+// }
+// // Змініть код лише над цим рядком
+
+// const thermos = new Thermostat(76); // Налаштування у шкалі Фаренгейта
+// let temp = thermos.temperature; // 24.44 градусів за Цельсієм
+// log(temp)
+// thermos.temperature = 26;
+// temp = thermos.temperature; // 26 градусів за Цельсієм
+// log(temp)
 ///////////////////////////////////////////// task 20 ////////////////////////////////////
 
 ///////////////////////////////////////////// task 21 ////////////////////////////////////
