@@ -172,7 +172,33 @@ let log = console.log;
 
 ///////////////////////////////////////////// task 15 ////////////////////////////////////
 
+// const result = {
+//   success: ["max-length", "no-amd", "prefer-arrow-functions"],
+//   failure: ["no-var", "var-on-top", "linebreak"],
+//   skipped: ["no-extra-semi", "no-dup-keys"]
+// };
+// function makeList(arr) {
+//   // Змініть код лише під цим рядком
+//   const failureItems = arr.map((el) => {
+//     el = `<li class="text-warning">${el}</li>`;
+//     return el;
+//   });
+
+//   // Змініть код лише над цим рядком
+
+//   return failureItems;
+// }
+
+// const failuresList = makeList(result.failure);
+// log(failuresList);
+
 ///////////////////////////////////////////// task 16 ////////////////////////////////////
+
+// const createPerson = (name, age, gender) => {
+//   // Змініть код лише під цим рядком
+//   return { name, age, gender };
+//   // Змініть код лише над цим рядком
+// };
 
 ///////////////////////////////////////////// task 17 ////////////////////////////////////
 
