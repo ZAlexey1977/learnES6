@@ -300,8 +300,41 @@ let log = console.log;
 
 // subtract(7, 4);
 
-///////////////////////////////////////////// task 26 ////////////////////////////////////,
+///////////////////////////////////////////// task 26 ////////////////////////////////////
+
+// const makeServerRequest = new Promise((resolve, reject) => {
+
+// });
+
 ///////////////////////////////////////////// task 27 ////////////////////////////////////
+
+// const makeServerRequest = new Promise((resolve, reject) => {
+//   // responseFromServer represents a response from a server
+//   let responseFromServer;
+
+//   if(responseFromServer) {
+//     resolve("We got the data");
+//   } else {
+//     reject("Data not received");
+//   }
+// });
+
 ///////////////////////////////////////////// task 28 ////////////////////////////////////
+
+// const makeServerRequest = new Promise((resolve, reject) => {
+//   // responseFromServer налаштований правильно, щоб відобразити позитивну відповідь сервера
+//   let responseFromServer = true;
+
+//   if (responseFromServer) {
+//     resolve("We got the data");
+//   } else {
+//     reject("Data not received");
+//   }
+// });
+
+// makeServerRequest.then(result => {
+//   console.log(result);
+// })
+
 ///////////////////////////////////////////// task 29 ////////////////////////////////////
 ///////////////////////////////////////////// task 30 ////////////////////////////////////
