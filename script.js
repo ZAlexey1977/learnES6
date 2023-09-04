@@ -273,7 +273,19 @@ let log = console.log;
 
 ///////////////////////////////////////////// task 22 ////////////////////////////////////
 
+// import { uppercaseString, lowercaseString } from './string_functions.js'
+// // Змініть код лише над цим рядком
+
+// uppercaseString("hello");
+// lowercaseString("WORLD!");
+
 ///////////////////////////////////////////// task 23 ////////////////////////////////////
+
+// import * as stringFunctions from './string_functions.js'
+// // Змініть код лише над цим рядком
+
+// stringFunctions.uppercaseString("hello");
+// stringFunctions.lowercaseString("WORLD!");
 
 ///////////////////////////////////////////// task 24 ////////////////////////////////////
 
